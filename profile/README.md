@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
- <h1> 🔐 RUET Cyber Security Club 🔐 </h1>
+ <h1> RUET Cyber Security Club </h1>
 </div>
 
 <br/> <br/>
